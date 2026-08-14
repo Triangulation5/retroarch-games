@@ -1,3 +1,4 @@
 # Game collection
 
-Installed from [vimm's lair](https://vimm.net/vault). And played on Retroarch.
+Installed from [Vimm's Lair](https://vimm.net/vault). And played on
+[RetroArch](https://www.retroarch.com/index.php).
